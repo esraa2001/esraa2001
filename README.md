@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Esraa Tarek
 
-### React Native Developer | Mobile App Instructor | Programming Trainer
+React Native Developer | Mobile App Instructor
+Instructor at Digital Egypt Cubs Initiative (MCIT)
 
 Passionate React Native Developer with 2+ years of experience building cross-platform mobile applications and delivering technical training programs.
 
